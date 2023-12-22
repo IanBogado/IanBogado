@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanBogado
 - 👀 I’m interested in QA and Data science
-- 🌱 I’m currently learning c, python, SQL, etc.
+- 🌱 I’m currently learning Data analyst, python, SQL, etc.
 - 📫 You can reach me on: https://www.linkedin.com/in/ianbogado/
 
 <!---
